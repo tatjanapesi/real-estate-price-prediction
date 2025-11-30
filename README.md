@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-This project aims to predict real estate prices using machine learning techniques in Python. It includes several Jupyter notebooks demonstrating data analysis, feature engineering, and model training.
+This project aims to predict real estate prices using machine learning techniques in Python. It includes several Jupyter notebooks demonstrating data analysis, feature engineering, and model training. Since this project was part of a university course, results are for educational purposes only. 
 
 ## Dataset
 
